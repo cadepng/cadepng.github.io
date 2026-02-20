@@ -3,6 +3,7 @@ body {
 }
 
 .box {
+    background-color: blue;
     border: 2px solid red;
     width: 400px;
     display: contents;
