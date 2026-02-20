@@ -2,11 +2,8 @@ body {
     color: blueviolet;
 }
 
-.h3Text {
-    color:black;
-}
-
 .box {
-    color:black;
-    padding: 1000px 5% 1000px
+    border: 2px solid red;
+    width: 400px;
+    display: contents;
 }
