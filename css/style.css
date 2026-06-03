@@ -1,0 +1,14 @@
+.header {
+    background-color: blueviolet;
+    border: 10px solid black;
+    display: flow-root
+}
+
+.name {
+    float: center;
+    width: 1000px;
+    height: 900px;
+    background-color: black;
+    border: 3px solid black;
+    padding: 100px;
+}
