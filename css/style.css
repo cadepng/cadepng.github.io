@@ -9,8 +9,9 @@ body{
 
 }
 .header {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: rgb(108, 0, 151);
     border: 5px solid white;
-    display: flow-root
 }
