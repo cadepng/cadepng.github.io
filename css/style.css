@@ -28,17 +28,8 @@ body{
     background-color: black;
 }
 
-.navi .button1 {
-    display: block;
-    color:white
-}
-
-.navi .button2 {
-    display: block;
-    color:white;
-}
-
-.navi .button3 {
-    display: block;
-    color:white;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
