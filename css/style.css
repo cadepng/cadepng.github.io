@@ -35,7 +35,7 @@ ul {
     background-color: black;
     display: flex;
     justify-content: center;
-    gap: 100px;
+    gap: 200px;
 }
 
 ul li a {
