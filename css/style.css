@@ -8,6 +8,11 @@ body{
     background-color: rgb(255, 255, 255);
 
 }
+
+header {
+    text-decoration: none;
+}
+
 .header {
     display: flex;
     justify-content: center;
