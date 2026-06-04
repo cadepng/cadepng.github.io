@@ -21,25 +21,27 @@ body{
 }
 
 .nav {
-    height: 121px;
-    width: 2000px;
-    display: flex;
+
+    display: inline-block;
     justify-content: center;
     align-items: center;
     background-color: black;
 }
 
 .nav .button1 {
+    display: block;
     justify-content: left;
     color:white
 }
 
 .nav .button2 {
+    display: block;
     justify-content: center;
     color:white;
 }
 
 .nav .button3 {
+    display: block;
     justify-content: right;
     color:white;
 }
