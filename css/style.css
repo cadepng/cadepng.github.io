@@ -30,18 +30,15 @@ body{
 
 .navi .button1 {
     display: block;
-    justify-content: left;
     color:white
 }
 
 .navi .button2 {
     display: block;
-    justify-content: center;
     color:white;
 }
 
 .navi .button3 {
     display: block;
-    justify-content: right;
     color:white;
 }
