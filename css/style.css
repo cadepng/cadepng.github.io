@@ -20,14 +20,14 @@ body{
     color:rgb(255, 255, 255)
 }
 
-.navi {
+/*.navi {
 
     display: inline-block;
     justify-content: center;
     align-items: center;
     background-color: black;
 }
-
+*/
 ul {
     list-style-type: none;
     margin: 0;
