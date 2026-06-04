@@ -34,6 +34,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: black;
+    display: flex;
 }
 
 ul li {
@@ -49,5 +50,5 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: black;
 }
