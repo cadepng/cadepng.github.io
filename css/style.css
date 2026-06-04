@@ -22,7 +22,7 @@ header {
     text-decoration: none;
 }
 
-.header .name {
+.header .name a {
     color:rgb(255, 255, 255);
     text-decoration: none;
 }
