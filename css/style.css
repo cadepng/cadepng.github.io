@@ -20,7 +20,7 @@ body{
     color:rgb(255, 255, 255)
 }
 
-.nav {
+.navi {
 
     display: inline-block;
     justify-content: center;
@@ -28,19 +28,19 @@ body{
     background-color: black;
 }
 
-.nav .button1 {
+.navi .button1 {
     display: block;
     justify-content: left;
     color:white
 }
 
-.nav .button2 {
+.navi .button2 {
     display: block;
     justify-content: center;
     color:white;
 }
 
-.nav .button3 {
+.navi .button3 {
     display: block;
     justify-content: right;
     color:white;
