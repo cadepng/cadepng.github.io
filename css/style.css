@@ -34,7 +34,7 @@ ul {
     padding: 0;
     background-color: black;
     display: flex;
-    justify-content: space-between;
+    gap:50px;
 }
 
 ul li a {
