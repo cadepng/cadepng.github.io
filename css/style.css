@@ -56,7 +56,7 @@ main img {
     background-size: cover;
 }
 
-main table {
+main table, th, td, tr{
     display: block;
     padding: 10px;
     border: 1px solid;
