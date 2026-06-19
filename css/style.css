@@ -59,6 +59,8 @@ main img {
 main table {
     display: block;
     padding: 10px;
+    border: 1px solid;
+    justify-content: center;
 }
 
 main p {
